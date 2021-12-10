@@ -1,0 +1,9 @@
+keras
+pandas
+matplotlib
+scikit-learn
+pillow
+numpy
+pathlib
+scikit-image
+ipython
